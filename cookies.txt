@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.savefrom.net	TRUE	/	FALSE	1999999999	lang	en
+en.savefrom.net	TRUE	/	FALSE	1999999999	country	IN
+.savefrom.net	TRUE	/	FALSE	1999999999	PHPSESSID	41cfc621ede73ce39304f2c5e8a5ddb9
+.savefrom.net	TRUE	/	FALSE	1999999999	uid	a564b271ad7f356c
+
